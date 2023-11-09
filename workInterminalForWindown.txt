@@ -5,3 +5,7 @@ rmdir thu_muc_can_xoa
 type nul > tenFile+duoifile (tao_file_trong)
 echo "noi dung van ban" >> ten_file_canTao (tao file kem noi dung)
 -----------------Git-------------------\n-------------------------------
+git branch -M master
+git branch -M main
+git remote remove origin (loi nhieu Url thi xoa)
+git remote -v (kiem tra Url)
