@@ -9,3 +9,8 @@ git branch -M master
 git branch -M main
 git remote remove origin (loi nhieu Url thi xoa)
 git remote -v (kiem tra Url)
+q(thoat khoi che do git log)
+git add . (them tat ca cac file)
+git commit -m "chu thich noi dung cap nhap"(sau khi them tat ca cac file)
+git push -u origin main(main hoac master, sau khi chay git commit)
+load git de xem ket qua
