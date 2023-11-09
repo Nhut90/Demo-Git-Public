@@ -1,0 +1,7 @@
+tao thu muc moi: mkdir ten thu muc 
+neu ten thu muc la khoang trong phai them dau ngoac kep bao quanh ten thu muc
+cd .. de tro lai thu muc cha
+rmdir thu_muc_can_xoa
+type nul > tenFile+duoifile (tao_file_trong)
+echo "noi dung van ban" >> ten_file_canTao (tao file kem noi dung)
+-----------------Git-------------------\n-------------------------------
